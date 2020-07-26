@@ -8,10 +8,10 @@
 2. Hardware: JLink, STM32F103Cx dev board, Nucleo-L4R5ZI dev board, generic 1.3inch IPS 240x240 LCD.
 
 
-![](https://imgur.com/aPlueii)
+![](https://i.imgur.com/oAtbhNb.png)
 
-a sphere rendered with PC.
+>>*a sphere rendered with PC*
 
-![](https://imgur.com/QMKhSiG)
+![](https://i.imgur.com/nVpjsAf.png)
 
-a sphere rendered with STM32F103C8 board
+>>*a sphere rendered with STM32F103C8 board*
