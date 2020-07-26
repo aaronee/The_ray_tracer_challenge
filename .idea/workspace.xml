@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="RaceTracer" targetName="gmock" />
+      <config projectName="RaceTracer" targetName="gtest_main" />
+      <config projectName="RaceTracer" targetName="RaceTracer" />
+      <config projectName="RaceTracer" targetName="gtest" />
+      <config projectName="RaceTracer" targetName="gmock_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecb4c8da-4be6-4750-be36-84e42fe15774" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-RaceTracer" />
+  </component>
+  <component name="ProjectId" id="1dhBgymoVscRp4A53QUK4G0t5ta" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tuple_test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Tuple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.RaceTracer">
+    <configuration name="material.eye_light" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="RaceTracer" RUN_TARGET_PROJECT_NAME="RaceTracer" RUN_TARGET_NAME="RaceTracer" TEST_CLASS="material" TEST_METHOD="eye_light" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="material.eye_light2" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="RaceTracer" RUN_TARGET_PROJECT_NAME="RaceTracer" RUN_TARGET_NAME="RaceTracer" TEST_CLASS="material" TEST_METHOD="eye_light2" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="material.eye_light3" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="RaceTracer" RUN_TARGET_PROJECT_NAME="RaceTracer" RUN_TARGET_NAME="RaceTracer" TEST_CLASS="material" TEST_METHOD="eye_light3" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="material.eye_light4" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="RaceTracer" RUN_TARGET_PROJECT_NAME="RaceTracer" RUN_TARGET_NAME="RaceTracer" TEST_CLASS="material" TEST_METHOD="eye_light4" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="material.eye_light5" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="RaceTracer" RUN_TARGET_PROJECT_NAME="RaceTracer" RUN_TARGET_NAME="RaceTracer" TEST_CLASS="material" TEST_METHOD="eye_light5" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceTracer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="RaceTracer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RaceTracer" RUN_TARGET_NAME="RaceTracer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RaceTracer" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.RaceTracer" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.material.eye_light" />
+      <item itemvalue="Google Test.material.eye_light2" />
+      <item itemvalue="Google Test.material.eye_light3" />
+      <item itemvalue="Google Test.material.eye_light4" />
+      <item itemvalue="Google Test.material.eye_light5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.material.eye_light4" />
+        <item itemvalue="Google Test.material.eye_light5" />
+        <item itemvalue="Google Test.material.eye_light3" />
+        <item itemvalue="Google Test.material.eye_light2" />
+        <item itemvalue="Google Test.material.eye_light" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecb4c8da-4be6-4750-be36-84e42fe15774" name="Default Changelist" comment="" />
+      <created>1592867559428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592867559428</updated>
+      <workItem from="1592867562451" duration="6496000" />
+      <workItem from="1592934835646" duration="62000" />
+      <workItem from="1592942950275" duration="117000" />
+      <workItem from="1592954444412" duration="1631000" />
+      <workItem from="1592956164142" duration="1302000" />
+      <workItem from="1592957606240" duration="7712000" />
+      <workItem from="1592971559484" duration="207000" />
+      <workItem from="1593017301535" duration="162000" />
+      <workItem from="1593019082053" duration="131000" />
+      <workItem from="1593020783572" duration="2901000" />
+      <workItem from="1593050126322" duration="9515000" />
+      <workItem from="1593188206051" duration="5894000" />
+      <workItem from="1593198400054" duration="12000" />
+      <workItem from="1593209106833" duration="89000" />
+      <workItem from="1593272456646" duration="271000" />
+      <workItem from="1593458005014" duration="12792000" />
+      <workItem from="1593539801134" duration="1755000" />
+      <workItem from="1594239601669" duration="10496000" />
+      <workItem from="1594252661696" duration="176000" />
+      <workItem from="1594252856909" duration="615000" />
+      <workItem from="1594253484161" duration="139000" />
+      <workItem from="1594253632713" duration="3849000" />
+      <workItem from="1594312666828" duration="2634000" />
+      <workItem from="1594320296630" duration="9763000" />
+      <workItem from="1594401208255" duration="8756000" />
+      <workItem from="1594579000485" duration="7777000" />
+      <workItem from="1594593932704" duration="2097000" />
+      <workItem from="1594661523604" duration="14644000" />
+      <workItem from="1594748916194" duration="25524000" />
+      <workItem from="1594931247739" duration="1182000" />
+      <workItem from="1594932507666" duration="913000" />
+      <workItem from="1594937320381" duration="199000" />
+      <workItem from="1595005344186" duration="14377000" />
+      <workItem from="1595091241348" duration="7688000" />
+      <workItem from="1595119305508" duration="4828000" />
+      <workItem from="1595283068244" duration="3905000" />
+      <workItem from="1595454565723" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="350" key="#Notifications" timestamp="1593188335624">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="651" y="350" key="#Notifications/0.0.1536.960@0.0.1536.960" timestamp="1593188335624" />
+    <state x="454" y="78" key="#Unittests_in_Test" timestamp="1593475214992">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="454" y="78" key="#Unittests_in_Test/0.0.1536.960@0.0.1536.960" timestamp="1593475214992" />
+    <state x="232" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592963809850">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="232" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1592955011972" />
+    <state x="232" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.869@0.23.1536.869" timestamp="1592963809850" />
+    <state x="481" y="289" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594253645531">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="481" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1594253645531" />
+    <state width="451" height="447" key="DebuggerActiveHint" timestamp="1592961247011">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state width="451" height="447" key="DebuggerActiveHint/0.23.1536.869@0.23.1536.869" timestamp="1592961247011" />
+    <state width="1494" height="191" key="GridCell.Tab.0.bottom" timestamp="1595454834702">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1595454834702" />
+    <state width="1494" height="473" key="GridCell.Tab.0.bottom/0.23.1536.869@0.23.1536.869" timestamp="1594936118906" />
+    <state width="1494" height="327" key="GridCell.Tab.0.bottom/0.23.1536.870@0.23.1536.870" timestamp="1594260892704" />
+    <state width="1494" height="191" key="GridCell.Tab.0.center" timestamp="1595454834701">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1595454834701" />
+    <state width="1494" height="473" key="GridCell.Tab.0.center/0.23.1536.869@0.23.1536.869" timestamp="1594936118896" />
+    <state width="1494" height="327" key="GridCell.Tab.0.center/0.23.1536.870@0.23.1536.870" timestamp="1594260892703" />
+    <state width="1494" height="191" key="GridCell.Tab.0.left" timestamp="1595454834700">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1595454834700" />
+    <state width="1494" height="473" key="GridCell.Tab.0.left/0.23.1536.869@0.23.1536.869" timestamp="1594936118892" />
+    <state width="1494" height="327" key="GridCell.Tab.0.left/0.23.1536.870@0.23.1536.870" timestamp="1594260892702" />
+    <state width="1494" height="191" key="GridCell.Tab.0.right" timestamp="1595454834701">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1595454834701" />
+    <state width="1494" height="473" key="GridCell.Tab.0.right/0.23.1536.869@0.23.1536.869" timestamp="1594936118904" />
+    <state width="1494" height="327" key="GridCell.Tab.0.right/0.23.1536.870@0.23.1536.870" timestamp="1594260892703" />
+    <state width="1494" height="191" key="GridCell.Tab.1.bottom" timestamp="1595454834703">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1595454834703" />
+    <state width="1494" height="327" key="GridCell.Tab.1.bottom/0.23.1536.869@0.23.1536.869" timestamp="1593479411267" />
+    <state width="1494" height="327" key="GridCell.Tab.1.bottom/0.23.1536.870@0.23.1536.870" timestamp="1594260892705" />
+    <state width="1494" height="191" key="GridCell.Tab.1.center" timestamp="1595454834702">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1595454834702" />
+    <state width="1494" height="327" key="GridCell.Tab.1.center/0.23.1536.869@0.23.1536.869" timestamp="1593479411266" />
+    <state width="1494" height="327" key="GridCell.Tab.1.center/0.23.1536.870@0.23.1536.870" timestamp="1594260892704" />
+    <state width="1494" height="191" key="GridCell.Tab.1.left" timestamp="1595454834702">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1595454834702" />
+    <state width="1494" height="327" key="GridCell.Tab.1.left/0.23.1536.869@0.23.1536.869" timestamp="1593479411265" />
+    <state width="1494" height="327" key="GridCell.Tab.1.left/0.23.1536.870@0.23.1536.870" timestamp="1594260892704" />
+    <state width="1494" height="191" key="GridCell.Tab.1.right" timestamp="1595454834703">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="191" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1595454834703" />
+    <state width="1494" height="327" key="GridCell.Tab.1.right/0.23.1536.869@0.23.1536.869" timestamp="1593479411266" />
+    <state width="1494" height="327" key="GridCell.Tab.1.right/0.23.1536.870@0.23.1536.870" timestamp="1594260892705" />
+    <state x="269" y="96" key="SettingsEditor" timestamp="1592959593279">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="269" y="96" key="SettingsEditor/0.23.1536.869@0.23.1536.869" timestamp="1592959593279" />
+    <state width="768" height="480" key="XDebugger.FullValuePopup" timestamp="1594252740935">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="768" height="480" key="XDebugger.FullValuePopup/0.0.1536.960@0.0.1536.960" timestamp="1594252740935" />
+    <state x="552" y="278" key="refactoring.ChangeSignatureDialog" timestamp="1593472734042">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="552" y="278" key="refactoring.ChangeSignatureDialog/0.0.1536.960@0.0.1536.960" timestamp="1593472734042" />
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup" timestamp="1595294726115">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1595294726115" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeGoogleTestRunConfigurationType">
+        <watch expression="matrix_buff" />
+        <watch expression="ret_point2" />
+      </configuration>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="clock[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

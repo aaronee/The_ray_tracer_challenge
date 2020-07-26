@@ -1,0 +1,36 @@
+
+OpenDocument="stm32f1xx_it.c", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Src/stm32f1xx_it.c", Line=73
+OpenDocument="Tuple.cpp", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Drivers/RayTracer/Tuple/Tuple.cpp", Line=0
+OpenDocument="Vector.cpp", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Drivers/RayTracer/Vector/Vector.cpp", Line=0
+OpenDocument="Matrix.cpp", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Drivers/RayTracer/Matrix/Matrix.cpp", Line=97
+OpenDocument="Light.cpp", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Drivers/RayTracer/Light/Light.cpp", Line=0
+OpenDocument="Color.cpp", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Drivers/RayTracer/Color/Color.cpp", Line=0
+OpenDocument="main.cpp", FilePath="/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RayTracing/Src/main.cpp", Line=58
+OpenToolbar="File", Floating=0, x=0, y=0
+OpenToolbar="Debug", Floating=0, x=1, y=0
+OpenToolbar="Breakpoints", Floating=0, x=2, y=0
+OpenWindow="Call Stack", DockArea=BOTTOM, x=2, y=0, w=536, h=230, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=0, w=425, h=335, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=1, w=413, h=176, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=425, h=239, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=528, h=230, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x800139C
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=413, h=384, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=1, w=413, h=176, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory Usage", DockArea=LEFT, x=0, y=1, w=413, h=176, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=470, h=230, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[161;62;49;49;1034]
+TableHeader="Functions", SortCol="Name", SortOrder="DESCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Class";"Source"], ColWidths=[208;77;49;49;27;188]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[232;129;43;43;98;100]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[183;160;224]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh";"Access"], ColWidths=[134;71;86;122;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+WatchedExpression="color_at_point", Window=Watched Data 1
+WatchedExpression="red", Window=Watched Data 1
+WatchedExpression="green", Window=Watched Data 1
+WatchedExpression="blue", Window=Watched Data 1
+WatchedExpression="specular_color", Window=Watched Data 1
+WatchedExpression="ambient_color", Window=Watched Data 1
+WatchedExpression="diffuse_color", Window=Watched Data 1
+WatchedExpression="specular_color", Window=Watched Data 1
+WatchedExpression="rgb", Window=Watched Data 1

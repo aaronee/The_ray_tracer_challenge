@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RaceTracer/Canvas/Canvas.cpp
+Canvas.h
+/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RaceTracer/Canvas/Canvas.h
+
+/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RaceTracer/Canvas/Canvas.h
+Color.h
+/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RaceTracer/Canvas/Color.h
+array
+/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RaceTracer/Canvas/array
+cstring
+/Users/khoahuynh/Documents/Document/STM32F103CB-BluePill/RaceTracer/Canvas/cstring
+
+Color/Color.h
+Tuple.h
+Color/Tuple.h
+
+Tuple/Tuple.h
+iostream
+-
+
